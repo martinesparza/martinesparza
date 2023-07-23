@@ -1,5 +1,5 @@
 ### **Hello there!**
-I’m Martín Esparza-Iaizzo, a biomedical engineer and neuroscientist from a small town in the north of Spain who is currently based in INBRAIN Neuroelectronics
+I’m Martín Esparza-Iaizzo, a biomedical engineer and neuroscientist from a small town in the north of Spain who is currently based in INBRAIN Neuroelectronics. Most of my code is not available but here are some of my public projects.
 - 👀 I’m interested in neurological pathology and how technology can aid in clinical and pre-clinical research
 - 🌱 I’m currently learning graphic design, animal methods, academic writing, closed-loop algorithm design and much more!
 - 💞️ I’m looking to collaborate on as many projects as possible. 
